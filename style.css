@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+    letter-spacing:1px ;
+    box-sizing: border-box;
+}
+img{
+    width: 75%;
+    margin-bottom: 10px;
+    border-radius: 40px;
+}
+
+button{
+    font-size: 18px;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+body{
+    background:#e7204e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+    backdrop-filter: blur(30px);
+}
+
+section{
+    
+    background-color: rgba(248, 136, 7, 0.192);
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    box-shadow:0px 0px 11px black ;
+   
+}
+
+.div-text{
+    background:url("img/istockphoto-515000900-1024x1024.avif");
+    
+    border-radius: 20px;
+    background-size: 450px;
+    padding: 10px;
+
+}
+
+p{
+    background-color: gray;
+    margin-top: 8px;
+    color: white;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px;
+       
+}
+
+
+
+
